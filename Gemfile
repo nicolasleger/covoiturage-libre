@@ -3,7 +3,7 @@ ruby '>= 2.2.2'
 
 ### Main Gems
 
-gem 'rails', '~> 5.0'
+gem 'rails', '~> 5.1'
 
 ### Database
 
